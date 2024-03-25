@@ -1,6 +1,6 @@
 # LaraBackPro E-commerce Project - Frontend Repository
 
-LaraBackPro E-Commerce with Admin Panel, Redux Toolkitand many features (complete features given below in Description )
+LaraBackPro E-Commerce with Admin Panel, Redux Toolkit and many features (complete features given below in Description )
 
 
  #Features :
