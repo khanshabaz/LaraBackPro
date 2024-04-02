@@ -14,6 +14,7 @@ LaraBackPro E-Commerce with Admin Panel, Redux Toolkit and many features (comple
 - Redux Toolkit with Async Thunk
 - JSON-server for front-end testing
 - React Router v6
+- React-Infinite-Scroller
 - React-alert
 - React-Modal
 - React-form-hook
